@@ -5,14 +5,14 @@
 
 	我是第二个合作者:
 
-	账号:zdl2020second
-	邮箱:hellowworld_second@aliyun.com
-	密码:zdl@13908197523
+	账号:zdl 2020 second
+	邮箱:哈喽世界_second
+	密码:QQpassword
 	这是我第二次进入first.txt
 
 	我是第三个合作者
 
-	账号:zdlthree2020
-	邮箱:hellowworld_three@aliyun.com
-	密码:zdl@13908197523
+	账号:zdl three 2020
+	邮箱:哈喽世界_three@aliyun.com
+	密码:QQpassword
 
